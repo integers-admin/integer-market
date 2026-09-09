@@ -443,7 +443,6 @@
 //               </div>
 //             )}
 //           </div>
-
 //           {/* Mobile filters */}
 //           {mobileFilters && (
 //             <motion.div
